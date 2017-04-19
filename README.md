@@ -1,5 +1,3 @@
-# Wien52 2017
-
 ## Wien52 : 2017 Woche 15, 1010 Wien - Innere Stadt
 WineBANK Wien im Kipferlhaus - 360° Panorama, Wein, Kipferl, Keller, Gewölbe, Grünangergasse
 
