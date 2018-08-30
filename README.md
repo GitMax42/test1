@@ -1,3 +1,10 @@
+## RSS feed
+
+- https://wien52.at/rss.xml
+- RSS doku: https://en.wikipedia.org/wiki/RSS
+
+---
+
 ## Wien Vienna Panorama :camera: : 1130 Wien - Hietzing
 Kaiserpavillon @Tiergarten Schönbrunn - 360° Panorama, Cafe, Restaurant, Frühstückspavillon
 
