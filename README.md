@@ -8,7 +8,8 @@
 ## Wien Vienna Panorama :camera: : 1130 Wien - Hietzing
 Kaiserpavillon @Tiergarten Schönbrunn - 360° Panorama, Cafe, Restaurant, Frühstückspavillon
 
-https://wien52.at/kaiserpavillon-tiergarten-schoenbrunn-wien-foto-2014
+- https://wien52.at/kaiserpavillon-tiergarten-schoenbrunn-wien-foto-2014
+- wikipedia: https://en.wikipedia.org/wiki/Tiergarten_Sch%C3%B6nbrunn
 
 ![Image](https://wien52.at/fotos/2014/kw30.s0.jpeg)
 
