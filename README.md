@@ -1,51 +1,17 @@
-## Wien52 :camera: : 2017 Woche 15, 1010 Wien - Innere Stadt
+## Wien Vienna Panorama :camera: : 1130 Wien - Hietzing
+Kaiserpavillon @Tiergarten Schönbrunn - 360° Panorama, Cafe, Restaurant, Frühstückspavillon
+
+https://wien52.at/kaiserpavillon-tiergarten-schoenbrunn-wien-foto-2014
+
+![Image](https://wien52.at/fotos/2014/kw30.s0.jpeg)
+
+---
+
+
+## Wien Vienna Panorama :camera: : 1010 Wien - Innere Stadt
 WineBANK Wien im Kipferlhaus - 360° Panorama, Wein, Kipferl, Keller, Gewölbe, Grünangergasse
 
 https://wien52.at/winebank-wien-im-kipferlhaus-wien-foto-2017
 
 ![Image](https://wien52.at/fotos/2017/kw15.s0.jpeg)
 
-___
-
-aaa
-
----
-
-
-
-
-You can use the [editor on GitHub](https://github.com/ManfredGruber/wien52/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ManfredGruber/wien52/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
